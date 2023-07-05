@@ -1,0 +1,195 @@
+<html lang="en">
+    <head></head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pricing</title>
+    <link href="./styles.css" rel="stylesheet">
+    <body>
+        <header class="h1">Pricing</header>
+        <section><div class="hd">Simple, transparent pricing</div>
+            <div class="hd1">We believe Untitled should be accessible to all companies,no matter the size.</div>
+    </section>
+    
+    <main>
+        
+         <div class="row">
+            <div class="column" id="flex-container" style="background-color:#fff;">
+            <section>
+                <div class="logo"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCABcAFwDASIAAhEBAxEB/8QAHQABAAICAwEBAAAAAAAAAAAAAAEDBAUCBwgGCf/EADIQAAEDAwMCBAQEBwAAAAAAAAEAAgMEBREGEiEHMQgTQVEiMmGhFBVxgSNChLHB0/H/xAAaAQADAQEBAQAAAAAAAAAAAAABAgMEBQYA/8QAJREAAgIBBAICAgMAAAAAAAAAAQIAEQMEITFBElEFBhNhIjNx/9oADAMBAAIRAxEAPwD9PUREQL2n0KVCEgclWXGBzGqSoVT6qJvAJd+irNaPSP7qoQ9CNRmSpWMKxh+ZhCuZKyT5HZ+iDJ7EBE5IilRbH2IpEhERSghEQnAyVfGtC4wE4ySNjbud/wBWFLM+U8nA9kmkMryfQdlwWtE8ZQCoRF151m6x2XpDp9ldUxNrbrWHbQ0HmbTLgjc9xwdrGg98cnA9cjVptNl1eVcGEWx4EcAsaE7DQEg5BwVptGahOrdJWfVBonUhutFDWeQ527y97A7GeMjng4GQtyp5EbGxRuRsYOJlQVOSGSHn0KyFrVmU0u9u13dv3CzulbiIw7lyIix5Fo3JmFVVO2xED+bhWrGrTwwfqtCDcCOvMxkRYV5vFt0/aau+XiqZTUVDC6eeV3ZrGjJP1PsByTwFrVSxCqLJlJp+oWvrF020vV6ov0wEUDdsMIcBJUSn5Y2A9yfsASeAV4n6m0GsdX6ZPXDXE74TfLkyhs9Fk4ZShsri4Aj4Y27A1vq4uc4+7uy7Q+TxOdR3an1dWMt2hdPyllDRTTsjdUOyDsIz3cAC9w7DDQfUdp9bOmdr6w2az2GyaytlrfbKgviibtka8Fm0Na1rgRjHGF7f41sP17PjxZf7G3dqvwXkKKvc7eR64/c0LWIgHmdk6Stv5NpSy2jBH4G301NgjGNkbW/4W2Xme5dCeslot9Tdbn4k7vTUlJE6eeaStrA2NjRlzifN7ABa7wtXLqjqPXFyuVVrG9XrSdCyWnkqLlPLIyeXjyxG2Rzi1+MOODwOD3C5OX4bHlwZdZi1CsF3OzDc9WRyehEKAgsDPVKsgfslaffgqtAcHK84RclNkpUKQcLGy+QqRkKisbljXexV64yM8xhZ7pkbgwgzXrVap01atY6er9MXuJ8lDcYjDMGO2ux3BB9CCAR+i2pBBwfRFsR2xsHQ0RuJWdAHwV9LCc/n2qh/VU/+hdW9UOiOlOmfUPQFi0rcbvUTXu5ME7q2eJ2wCeFrC3YxmOXPyT7DtyvaK8jeKO1al1l1v09pLS9NO+ufaoxT7XFgBdLMXv3ejQ0cn6Fez+v/AC2u1us/HqMx8ArE3xwdz/nMvjdmaiZuOpGq754iddN6RdPKzytN2+QS3e6MJMU208nI+ZjTw1vZ7+ewDh6K0npSx6J0/SaZ07RimoaJm1je7nHu57j6uJySfcrRdJ+l9l6U6Uh0/a8TVMhE1dVkYdUT4AJ+jR2a30HuSSftFwvk9djyquk0m2FOPbHtj+z16Em7A/xHEKWDc9rfcqFfSR7n7z2b/dcYmhcmTUy1IUKVjdvESRkIiJMbdGAGY9TAT/EYOfULFWyVMtM1/wATfhP2WtHrYygb3MNcDDEZROYmGRoLQ/aNwB7jPsrnQSs7sJ+o5XAgjuFUH1HhFIY93ytJ/ZXR0j3cvO0fdAsBzBdSqON0rtrf3Pss9jBG0Nb2CMY2MbWjClQd/KITcIiLK7eRiEwiIkghERUXIRzDcIikjCqDcMhFOEQZws+upCIikzloCYRESQT/2Q==">
+                <p class="h2">Basic plan</p>
+                <p class="h3">$10/mth</p>
+                <p class="h4">Billed plan</p>           
+            </div>
+                     <div id="lst"><a><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4"></a>Access to all basic features</div>
+                     <div><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4">Basic reporting and analytics</div>
+                     <div><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4">Up to 10 individual users</div>
+                     <div><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4">20GB individual data each users</div>
+                     <div><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4">Basic chat and email support</div>
+                     <p><div class="foot">Get started</div></p> 
+                    </div>
+                    
+                    
+            </section>
+            </div>
+             
+            <div class="column" id="flex-container" style="background-color:#fff;">
+            <section>
+                <div class="logo"><img src="https://scontent.flos2-2.fna.fbcdn.net/v/t39.30808-6/347377355_10223517922401034_1319915792305443728_n.jpg?stp=cp0_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHyX3SuEvfzEZz5_3ecAPpAsWQdYS5BCmGxZB1hLkEKYcMOZk7CUJUZEWmgD1lRn9c&_nc_ohc=Mu6_wC-p-cUAX_Jp-oC&_nc_zt=23&_nc_ht=scontent.flos2-2.fna&oh=00_AfDOPDChTMB_xrLMALf-zWxNiJKgLw0pSUTALxWR5ucEpQ&oe=64A8C9D7">
+                <p class="h2">Bussiness plan</p>
+                <p class="h3">$20/mth</p>
+                <p class="h4">Billed annually</p>
+                </div>
+                <div>
+                    <div><a><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4"></a>200+ integrations</div>
+                    <div><a><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4"></a>Advance reporting and analytics</div>
+                    <div><a><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4"></a>Up to 20 individual users</div>
+                    <div><a><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4"></a>40GB individual data each users</div>
+                    <div><a><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4"></a>Personalised+priority service</div>
+                    <p><div class="foot">Get started</div></p>
+                </div>
+               
+            </section></div>
+
+            <div class="column" id="flex-container" style="background-color:#fff;">
+            <section>
+            <div class="logo"><img src="https://scontent.flos2-2.fna.fbcdn.net/v/t39.30808-6/347377355_10223517922401034_1319915792305443728_n.jpg?stp=cp0_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHyX3SuEvfzEZz5_3ecAPpAsWQdYS5BCmGxZB1hLkEKYcMOZk7CUJUZEWmgD1lRn9c&_nc_ohc=Mu6_wC-p-cUAX_Jp-oC&_nc_zt=23&_nc_ht=scontent.flos2-2.fna&oh=00_AfDOPDChTMB_xrLMALf-zWxNiJKgLw0pSUTALxWR5ucEpQ&oe=64A8C9D7">
+            <p class="h2">Enterprise plan</p>
+            <p class="h3">$40/mth</p>
+            <p class="h4">Billed annually</p>
+            </div>
+            <div class>
+                <div><a><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4"></a>Advanced custom fields</div>
+                <div><a><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4"></a>Audit log and data history</div>
+                <div><a><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4"></a>Unlimited individual users</div>
+                <div><a><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4"></a>Unlimited individual data</div>
+                <div><a><img src="https://scontent.flos2-1.fna.fbcdn.net/v/t39.30808-6/347590477_10223517387987674_3582485440379899643_n.jpg?stp=cp0_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGw7ozOJPYk_uqMyAFDCtrQxlLmZz6PWXHGUuZnPo9ZcQMnOvC3QvN2chCUUlqqPZw&_nc_ohc=BkCZDQjcQMcAX9TtITJ&_nc_zt=23&_nc_ht=scontent.flos2-1.fna&oh=00_AfDxxPzp3ub7qFxsGlsy9jhc5ONQaxJtVrjMHtfzV3spWA&oe=64A898A4"></a>Personalised+priority service</div>
+                <p><div class="foot">Get started</div></p>
+            </div>
+            
+              </section></div>
+        
+    
+        </main>
+    
+        
+    </body>
+    <style>
+        .h1{
+            color: blueviolet;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size:x-small;
+            margin-top: 1.5cm;
+            margin-bottom: auto;
+            margin-left: 1.5cm;
+           
+           
+        }
+        .h2{
+            color:blueviolet;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: small;
+            margin-top:5%;
+            text-align: center;
+            
+            
+            
+        }
+        
+        .h3{
+            font-family:Arial, Helvetica, sans-serif;
+            font-size: xx-large;
+            margin-top:5%;
+            text-align: center;
+            
+        }
+
+        .h4{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: smaller;
+            margin-top: -10%;
+            margin-bottom: 5%;
+            text-align: center;
+            color: grey;
+            padding-top: 0.7cm;
+            padding-bottom: 0.7cm;
+
+        }
+        .hd{
+            font-size: xx-large;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding-top: 0.2cm;
+            padding-bottom: 0.5cm;
+            margin-left: 1.5cm;
+        }
+        .hd1{
+            font-size: medium;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: grey;
+            margin-left: 1.5cm;
+        }
+        .h1, .h2, .h3, .h4{
+            padding: 0%;
+        }
+
+        * {
+  box-sizing: border-box;
+
+  
+  
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33%;
+  padding: 50px;
+  height: 700px; 
+  padding-top: 0.7cm;
+  
+}
+
+    #flex-container {
+  border: 1px solid lightgrey;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5% ;
+  background-color: #fff;
+  display: flexbox;
+  justify-content: space-between;
+  margin-top: 1.5cm;
+  margin-right: 0.5cm;
+  margin-bottom: 1.5cm;
+  width: 360px;
+  height: 620px;
+  
+
+  
+
+}
+.logo{
+  grid-template-columns: 0.4cm;
+
+  
+}
+.foot{
+    text-align: center;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    border-style:hidden;
+    border-top-left-radius: 0.2cm;
+    border-top-right-radius: 0.2cm;
+    border-bottom-left-radius: 0.2cm;
+    border-bottom-right-radius:0.2cm;
+    background-color:blueviolet;
+    width: 250px;
+    height: 40px;
+    margin-top: auto;
+   
+    
+
+}
+
+    </style>
+</html>
